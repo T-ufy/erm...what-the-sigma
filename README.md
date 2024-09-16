@@ -1,1 +1,1 @@
-# repo-so-that-dumb-discord-plugin-has-a-url-for-wallpaper-cuz-it-only-accepts-urls-for-some-reason
+yippee
